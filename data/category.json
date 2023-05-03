@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "details": "Learn the basics of programming languages such as Python and Java.",
+    "category": "Education"
+  },
+  {
+    "id": 2,
+    "title": "Healthy Eating Guide",
+    "details": "Discover the benefits of a balanced diet and how to make nutritious food choices.",
+    "category": "Health"
+  },
+  {
+    "id": 3,
+    "title": "Travel Essentials Checklist",
+    "details": "A comprehensive list of items to pack for your next trip.",
+    "category": "Travel"
+  },
+  {
+    "id": 4,
+    "title": "Beginner's Guide to Yoga",
+    "details": "Learn the basic yoga poses and breathing techniques for a healthier mind and body.",
+    "category": "Fitness"
+  },
+  {
+    "id": 5,
+    "title": "DIY Home Improvement",
+    "details": "Step-by-step instructions for various home improvement projects.",
+    "category": "Home"
+  },
+  {
+    "id": 6,
+    "title": "Financial Planning 101",
+    "details": "Learn the fundamentals of personal finance, including budgeting and investing.",
+    "category": "Finance"
+  },
+  {
+    "id": 7,
+    "title": "Introduction to Photography",
+    "details": "Get started with photography and master the basics of composition and lighting.",
+    "category": "Art"
+  },
+  {
+    "id": 8,
+    "title": "Effective Time Management",
+    "details": "Learn techniques to improve productivity and prioritize tasks effectively.",
+    "category": "Productivity"
+  },
+  {
+    "id": 9,
+    "title": "Beginner's Guide to Meditation",
+    "details": "Learn how to meditate and incorporate mindfulness into your daily life.",
+    "category": "Wellness"
+  },
+  {
+    "id": 10,
+    "title": "Gardening Tips for Beginners",
+    "details": "Discover the basics of gardening and how to care for different types of plants.",
+    "category": "Hobby"
+  }
+]

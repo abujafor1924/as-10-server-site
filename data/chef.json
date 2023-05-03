@@ -1,0 +1,817 @@
+[
+  {
+    "recipe": [
+      {
+        "rating": 4.5,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 1,
+
+    "description": "Alexandra Lee is a talented chef with a passion for creating delicious and healthy dishes. With 6 years of experience in the culinary industry, she specializes in Mediterranean cuisine, sushi, and crafting nutritious recipes. Her creations are known for their vibrant flavors and beautiful presentation.",
+    "image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=1024x1024&w=is&k=20&c=DW1hXwN2YZ5oW0U8qa13yzij1_VYRbs7pNdeY7BeCkI=",
+    "chefName": "John Smith",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 754
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 2,
+
+    "description": "David Miller is a seasoned chef with 9 years of experience in the culinary world. His expertise lies in Indian cuisine, grilling techniques, and creating delicious vegetarian dishes. David's culinary creations are known for their bold flavors, innovative combinations, and meticulous attention to detail.",
+    "image": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?s=1024x1024&w=is&k=20&c=q3yuZRkuApHd_UktpRK7nLd2yIk1mYFAoLn5lAXgtvY=",
+    "chefName": "Emily Johnson",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 436
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 3,
+
+    "description": "Alexandra Lee is a talented chef with a passion for creating delicious and healthy dishes. With 6 years of experience in the culinary industry, she specializes in Mediterranean cuisine, sushi, and crafting nutritious recipes. Her creations are known for their vibrant flavors and beautiful presentation.",
+    "image": "https://media.istockphoto.com/id/1368565310/photo/asian-little-boy-in-apron-preparing-baking-the-dough-in-kitchen-room-at-home.jpg?s=1024x1024&w=is&k=20&c=aNudLcwXdo9enISLIWnegnHetVPVDSrekk4KradNelM=",
+    "chefName": "John Doe",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 875
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 4,
+
+    "description": "David Miller is a seasoned chef with 9 years of experience in the culinary world. His expertise lies in Indian cuisine, grilling techniques, and creating delicious vegetarian dishes. David's culinary creations are known for their bold flavors, innovative combinations, and meticulous attention to detail.",
+    "image": "https://media.istockphoto.com/id/1082202128/photo/this-smells-so-delicious.jpg?s=1024x1024&w=is&k=20&c=bOI-NQDocciw3LiI6-cVNzAFr2hN7vtA0xk9juRAX7Y=",
+    "chefName": "Jane Smith",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 243
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 5,
+
+    "description": "Alexandra Lee is a talented chef with a passion for creating delicious and healthy dishes. With 6 years of experience in the culinary industry, she specializes in Mediterranean cuisine, sushi, and crafting nutritious recipes. Her creations are known for their vibrant flavors and beautiful presentation.",
+    "image": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?s=1024x1024&w=is&k=20&c=t_rYcayilFFV8MuE-2B3rA-Ekdl1P-FUdyACzzmxHy4=",
+    "chefName": "Sarah Johnson",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 70,
+    "likes": 324
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 6,
+
+    "description": "David Miller is a seasoned chef with 9 years of experience in the culinary world. His expertise lies in Indian cuisine, grilling techniques, and creating delicious vegetarian dishes. David's culinary creations are known for their bold flavors, innovative combinations, and meticulous attention to detail.",
+    "image": "https://media.istockphoto.com/id/681656938/photo/friends-preparing-food-at-table-in-kitchen.jpg?s=1024x1024&w=is&k=20&c=mxzu0mXJTcAp8oog2F0p36o8Qp0uC7jNHPddg_AqZjA=",
+    "chefName": "Michael Thompson",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 120,
+    "likes": 432
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 7,
+
+    "description": "Alexandra Lee is a talented chef with a passion for creating delicious and healthy dishes. With 6 years of experience in the culinary industry, she specializes in Mediterranean cuisine, sushi, and crafting nutritious recipes. Her creations are known for their vibrant flavors and beautiful presentation.",
+    "image": "https://media.istockphoto.com/id/1181032272/photo/hospitality-team-discussing-bookings-on-a-tablet.jpg?s=1024x1024&w=is&k=20&c=KRtYzlQoe_eYzBNwxzp4qBNlH5fG5r2XxEyTmmPrKw8=",
+    "chefName": "Alexandra Lee",
+    "yearsOfExperience": 6,
+    "numberOfRecipes": 40,
+    "likes": 528
+  },
+  {
+    "recipe": [
+      {
+        "rating": 4.2,
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "details": {
+          "prepTime": "10 minutes",
+          "cookTime": "20 minutes",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 cloves garlic",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "instructions": [
+            "Cook the spaghetti according to package instructions.",
+            "In a separate pan, cook the pancetta until crispy.",
+            "Add minced garlic to the pan and cook for another minute.",
+            "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+            "Drain the cooked spaghetti and immediately add it to the pan with pancetta and garlic.",
+            "Pour the egg mixture over the hot spaghetti and toss well to coat the pasta.",
+            "Season with salt and pepper to taste.",
+            "Serve hot and garnish with additional Parmesan cheese if desired."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "details": {
+          "prepTime": "30 minutes",
+          "cookTime": "40 minutes",
+          "ingredients": [
+            "500g boneless chicken, cut into cubes",
+            "1 cup plain yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons ground cumin",
+            "2 teaspoons ground paprika",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garam masala",
+            "1 teaspoon chili powder",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 cup tomato puree",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+          ],
+          "instructions": [
+            "In a bowl, combine yogurt, lemon juice, cumin, paprika, turmeric, garam masala, and chili powder.",
+            "Add chicken cubes to the marinade, mix well, and let it marinate for at least 1 hour.",
+            "In a large pan, melt butter over medium heat.",
+            "Add chopped onions and minced garlic to the pan and cook until onions are soft and translucent.",
+            "Add marinated chicken to the pan and cook until browned on all sides.",
+            "Stir in tomato puree and simmer for 10 minutes.",
+            "Add heavy cream and salt to taste, and cook for an additional 10 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or naan bread."
+          ]
+        }
+      },
+      {
+        "rating": 4.2,
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "details": {
+          "prepTime": "15 minutes",
+          "cookTime": "12 minutes",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips",
+            "1 cup chopped nuts (optional)"
+          ],
+          "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "In a large mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until well combined.",
+            "Beat in the eggs one at a time, then stir in the vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt."
+          ]
+        }
+      }
+    ],
+    "id": 8,
+    "description": "David Miller is a seasoned chef with 9 years of experience in the culinary world. His expertise lies in Indian cuisine, grilling techniques, and creating delicious vegetarian dishes. David's culinary creations are known for their bold flavors, innovative combinations, and meticulous attention to detail.",
+    "image": "https://media.istockphoto.com/id/1248500527/photo/dissatisfied-housewife-trying-to-prepare-healthy-meal-cooking-learning-problems.webp?s=1024x1024&w=is&k=20&c=AkwbqOkQ9Ce2lnkFpkwG-YfDxqr5rE6f7NQwlmqL3w4=",
+    "chefName": "David Miller",
+    "yearsOfExperience": 9,
+    "numberOfRecipes": 80,
+    "likes": 273
+  }
+]
