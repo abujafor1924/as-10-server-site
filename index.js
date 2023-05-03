@@ -12,14 +12,14 @@ app.use(express.json());
 app.get("/", (req, res) => {
   res.send("Hello server world?");
 });
-// app.get("/category", (req, res) => {
-//   res.send(category);
-// });
-// app.get("/category/:id", (req, res) => {
-//   const id = req.params.id;
-//   const item = category?.find((pd) => pd.id == id);
-//   res.send({ item });
-// });
+app.get("/category", (req, res) => {
+  res.send(category);
+});
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  const item = category?.find((pd) => pd.id == id);
+  res.send({ item });
+});
 app.get("/chef", (req, res) => {
   res.send(chef);
 });
