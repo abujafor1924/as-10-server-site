@@ -29,7 +29,7 @@
         }
       },
       {
-        "rating": 4,
+        "rating": 4.2,
         "id": 2,
         "name": "Chicken Tikka Masala",
         "details": {
@@ -65,7 +65,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 4.3,
         "id": 3,
         "name": "Chocolate Chip Cookies",
         "details": {
@@ -104,7 +104,7 @@
   {
     "recipe": [
       {
-        "rating": 4.2,
+        "rating": 4.0,
         "id": 1,
         "name": "Spaghetti Carbonara",
         "details": {
@@ -131,7 +131,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 4.9,
         "id": 2,
         "name": "Chicken Tikka Masala",
         "details": {
@@ -167,7 +167,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 4.1,
         "id": 3,
         "name": "Chocolate Chip Cookies",
         "details": {
@@ -206,7 +206,7 @@
   {
     "recipe": [
       {
-        "rating": 4.2,
+        "rating": 3.2,
         "id": 1,
         "name": "Spaghetti Carbonara",
         "details": {
@@ -233,7 +233,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 2.2,
         "id": 2,
         "name": "Chicken Tikka Masala",
         "details": {
@@ -269,7 +269,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 3.5,
         "id": 3,
         "name": "Chocolate Chip Cookies",
         "details": {
@@ -308,7 +308,7 @@
   {
     "recipe": [
       {
-        "rating": 4.2,
+        "rating": 4.8,
         "id": 1,
         "name": "Spaghetti Carbonara",
         "details": {
@@ -335,7 +335,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 4.7,
         "id": 2,
         "name": "Chicken Tikka Masala",
         "details": {
@@ -371,7 +371,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 3.2,
         "id": 3,
         "name": "Chocolate Chip Cookies",
         "details": {
@@ -410,7 +410,7 @@
   {
     "recipe": [
       {
-        "rating": 4.2,
+        "rating": 3.2,
         "id": 1,
         "name": "Spaghetti Carbonara",
         "details": {
@@ -437,7 +437,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 4.0,
         "id": 2,
         "name": "Chicken Tikka Masala",
         "details": {
@@ -473,7 +473,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 4.9,
         "id": 3,
         "name": "Chocolate Chip Cookies",
         "details": {
@@ -512,7 +512,7 @@
   {
     "recipe": [
       {
-        "rating": 4.2,
+        "rating": 2.5,
         "id": 1,
         "name": "Spaghetti Carbonara",
         "details": {
@@ -539,7 +539,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 2.2,
         "id": 2,
         "name": "Chicken Tikka Masala",
         "details": {
@@ -575,7 +575,7 @@
         }
       },
       {
-        "rating": 4.2,
+        "rating": 3.2,
         "id": 3,
         "name": "Chocolate Chip Cookies",
         "details": {
